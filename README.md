@@ -67,6 +67,3 @@ Hands-on examples demonstrating race conditions, thread pools, locks, ExecutorSe
 - **GitHub:** https://github.com/ErSanRawat
 
 ---
-
-## ⚡ Fun Fact
-I debug multi-threaded race conditions for fun 😄  
